@@ -1,0 +1,16 @@
+{
+  "short_name": "FindAPIapp",
+  "name": "App for seeking APIs",
+  "icons": [
+  {
+      "src": "maskable_icon.png",
+      "type": "image/png",
+      "sizes": "1000x1000",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": "/index.html",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
